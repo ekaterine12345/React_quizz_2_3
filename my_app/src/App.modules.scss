@@ -1,0 +1,128 @@
+$green-color: green;
+$purple-color: rgb(122, 6, 122);
+$blue-purple: rgb(88, 80, 221);
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.custom-search{
+    width: 40rem;
+}
+
+.search-input {
+    border-color: $purple-color;
+    border-right: none;
+    color: blueviolet;
+}
+
+.search-input:focus {
+    // box-shadow: none;
+    box-shadow: 1px 1px 1px rgb(243, 208, 243);
+    border-color: $purple-color;
+    color: $purple-color;
+}
+
+.search-icon {
+    background-color: white;
+    border-left: none;
+    border-color: $purple-color;
+    color: $purple-color;
+}
+.pen-icon{
+    color: gray;
+    // width: 1.5em;
+    // height: 1.5em;
+}
+
+.pen-icon:hover{
+    color: blue;
+}
+.delete-icon{
+    color: gray;
+}
+.delete-icon:hover{
+    color: red;
+}
+
+.todo-checkbox{
+    width: 25px;
+    height: 25px;
+    background-color: #eee;
+    border: 5px solid #631717;
+}
+
+
+.custom-select {
+    width: 10rem; 
+    background-color: $blue-purple;
+    color: #fff;
+    border: 1px solid $blue-purple;
+    box-shadow: 1px 1px 5px $blue-purple;
+}
+
+.custom-select option {
+    background-color: #fff;
+    color: rgb(147, 147, 201);
+}
+
+.custom-select option:hover {
+    background-color: lightblue;
+}
+
+.apply-button{
+    background-color: $blue-purple;
+    color: #fff;
+}
+.apply-button:hover{
+    opacity: 0.7;
+    background-color: $blue-purple;
+    color: #fff;
+}
+
+
+.cancle-button{
+    border: 1px solid $blue-purple;
+    color: $blue-purple;
+}
+.cancle-button:hover{
+    border: 1px solid $blue-purple;
+    color: $blue-purple;
+    opacity: 0.7;
+}
+.add-button{
+    background-color: $blue-purple;
+    color: #fff;
+    font-size: 30px;
+    border-radius: 25px;
+}
+.add-button:hover{
+    opacity: 0.9;
+    background-color: $blue-purple;
+    color: #fff;
+}
+
+.overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5);
+    z-index: 1040; // Ensure it's below the modal but above the rest of the content
+    display: none;
+}
+
+.overlay.show {
+    display: block;
+}
+
+.modal-content {
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+

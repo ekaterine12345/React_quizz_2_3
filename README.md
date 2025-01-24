@@ -8,7 +8,24 @@ Used technologies
 * React + Vite
 * Bootstrap
 
-![image](https://github.com/user-attachments/assets/dedf7ce0-d742-4dd3-8a84-e232d243f2b9)
+
+
+Adding a new task:
+![image](https://github.com/user-attachments/assets/adbee1dc-d505-43e0-999f-ef334353ceb6)
+![image](https://github.com/user-attachments/assets/7a085d8a-7af4-4a04-9e85-af3d2e04b132)
+
+
+Deleting a task:
+![image](https://github.com/user-attachments/assets/1430d92d-490e-403a-b828-4283065b8dfa)
+
+
+
+
+
+Updating a Task
+
+
+
 
 
 

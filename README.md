@@ -25,9 +25,9 @@ Updating a Task:
 ![image](https://github.com/user-attachments/assets/4275da66-9798-40c4-99e1-466112fe4377)
 ![image](https://github.com/user-attachments/assets/5b1f4ece-dd92-46ff-a77f-6396a2f47b44)
 
-Marking task as done:
-![image](https://github.com/user-attachments/assets/987bbdd2-b747-4463-9ea2-bd0285fd46b6)
-![image](https://github.com/user-attachments/assets/d362326c-d64f-45fb-9d8a-41ef5811c9fc)
+Marking task as done:__
+![image](https://github.com/user-attachments/assets/987bbdd2-b747-4463-9ea2-bd0285fd46b6)__
+![image](https://github.com/user-attachments/assets/d362326c-d64f-45fb-9d8a-41ef5811c9fc)__
 
 Searching a task:
 ![image](https://github.com/user-attachments/assets/78705ac4-b4f5-4a12-b461-19b4e6386e7f)
